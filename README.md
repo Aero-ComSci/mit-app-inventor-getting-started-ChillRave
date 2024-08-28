@@ -9,4 +9,7 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 3. Image of your code, can be done by right clicking and download blocks as image or by screenshot, __place on readme__
 4. Add a quick reflection(2 sentences) about what was difficult __Place on Readme__
 
+![Screenshot 2024-08-28 1 11 48 PM](https://github.com/user-attachments/assets/a21b88fa-c9ea-4c85-a23e-e8318f23a187)
+![Screenshot 2024-08-28 1 14 27 PM](https://github.com/user-attachments/assets/e67c52a2-e0f0-4191-b523-e745b9d21fe9)
 
+The project was overall simple and understanding. The diffcult part was understand how block correlated to one another and the features of MIT
